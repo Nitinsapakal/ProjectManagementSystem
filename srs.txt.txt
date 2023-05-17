@@ -26,7 +26,7 @@ Software Requirements Specification (SRS) Document: Online Project Management
 
    2.4 Stakeholders to update about executions 
       - The system should generate reports on project management , and other relevant information.
-      - Reports may include employee performance, attendance summary, leave balance, etc.
+      - All  Stakeholders wil be able to update about executions
 
    2.5 Notifications and Reminders
       - The system should send notifications and reminders to department for pending project requests, upcoming project ,or other important poject.
