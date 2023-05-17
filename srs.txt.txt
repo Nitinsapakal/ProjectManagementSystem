@@ -1,0 +1,94 @@
+Software Requirements Specification (SRS) Document: Online Project Management
+
+1. Introduction
+   1.1 Purpose
+   The purpose of this document is to provide a detailed description of the requirements for the Employee Management System. It outlines the functional and 
+   non-functional requirements, constraints, and interfaces of the system.
+
+   1.2 Scope
+   Online Project Management System is a web-based application that allows organizations to manage Project information,
+  handle poject requests, and generate reports. The system will provide an efficient and centralized solution for managing Project-related tasks.
+
+2. Functional Requirements
+   2.1 Online Project Management
+      - Administrators should be able to add, update, and delete Project records.
+      - Each Project record should details such as Project  name, Project  information, destination.
+      - The system should store and display Project details if available.
+
+   2.2 Project Tracking
+      - project manager should be able to mark make some changes in project 
+      - The system should calculate the Project hours and maintain a record of daily, weekly, and monthly basis.
+
+   2.3 Delivery Management
+      - project manager should be able to submit deliver of project .
+      - The system should allow managers to review and approve/reject poject requests.
+      - The system should maintain a record of  project history.
+
+   2.4 Stakeholders to update about executions 
+      - The system should generate reports on project management , and other relevant information.
+      - Reports may include employee performance, attendance summary, leave balance, etc.
+
+   2.5 Notifications and Reminders
+      - The system should send notifications and reminders to department for pending project requests, upcoming project ,or other important poject.
+      - Notifications can be delivered via email, SMS, or through the system's user interface.
+      - SRS: Software Requirements Specification
+      - UI: User Interface
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
